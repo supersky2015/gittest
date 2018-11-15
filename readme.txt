@@ -6,6 +6,7 @@ git add "filename"	//add to the staging area
 git commit -m "mark"	//add to repository
 git status			//query the work area status
 git diff			//query the different
+git diff HEAD -- readme.txt 	//query the work area and repository different
 git log --pretty=oneline	//query log
 git reflog		//query history operation
 git reset --hard HEAD^		//fallback last version
