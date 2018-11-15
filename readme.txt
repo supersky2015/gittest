@@ -15,3 +15,5 @@ git reset --hard versionNumber	//fallback the specify version
 work area \ stage area \ repository area
 git checkout -- filename		//discarded the modify in work area.
 git reset HEAD filename  	//discarded the modify in unstage
+rm filename		//delete file from work area.
+git rm filename 	//delete file from stage area.
