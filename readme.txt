@@ -11,3 +11,4 @@ git reflog		//query history operation
 git reset --hard HEAD^		//fallback last version
 git reset --hard HEAD^number	//fallback the number version
 git reset --hard versionNumber	//fallback the specify version
+work area \ stage area \ repository area
