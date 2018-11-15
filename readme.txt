@@ -17,3 +17,5 @@ git checkout -- filename		//discarded the modify in work area.
 git reset HEAD filename  	//discarded the modify in unstage
 rm filename		//delete file from work area.
 git rm filename 	//delete file from stage area.
+ssh-keygen -t rsa -c "youremail"		//create SSH Key
+git remote add origin git@github.com:supersky2015/gittest.git 	//connect the remote repository
