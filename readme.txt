@@ -19,3 +19,5 @@ rm filename		//delete file from work area.
 git rm filename 	//delete file from stage area.
 ssh-keygen -t rsa -c "youremail"		//create SSH Key
 git remote add origin git@github.com:supersky2015/gittest.git 	//connect the remote repository
+git push -u origin master		//local push to remote 
+git push origin master	//second 
