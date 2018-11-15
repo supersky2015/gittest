@@ -14,3 +14,4 @@ git reset --hard HEAD^number	//fallback the number version
 git reset --hard versionNumber	//fallback the specify version
 work area \ stage area \ repository area
 git checkout -- filename		//discarded the modify in work area.
+git reset HEAD filename  	//discarded the modify in unstage
