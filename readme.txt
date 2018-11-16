@@ -28,3 +28,5 @@ git checkout -b dev 	//create and switched to branch dev
 git branch		//query current branch and view all branchs
 git merge dev	//merge dev to current branch
 git branch -d branchname	//delete the assigned name branch
+git log --graph			//query the merge branch graph
+
