@@ -32,3 +32,10 @@ git branch -d branchname	//delete the assigned name branch
 git log --graph			//query the merge branch graph
 git merge --no-ff -m "merge with no-ff" branchName	//merge branch with no fast forward mode。
 git reflog --graph --pretty=oneline --abbrev-commit 	//query the merge graph
+test saved workarea.
+git stash		//saved workarea.
+git stash apply		//restore the stash 
+git stash drop		//delete the stash
+git stash pop		//restore the stash then delete
+git stash list		//query the stash 
+git stash apply stash@{index} 	//restore the stash asseigned.
