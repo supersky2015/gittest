@@ -22,3 +22,7 @@ git remote add origin git@github.com:supersky2015/gittest.git 	//connect the rem
 git push -u origin master		//local push to remote 
 git push origin master	//second 
 git clone git@github.com:supersky2015/opencv.git 	//clone remote to local 
+git branch dev		//create dev branch
+git checkout dev	// switched to branch
+git checkout -b dev 	//create and switched to branch dev
+git branch		//query current branch and view all branchs
