@@ -39,3 +39,7 @@ git stash drop		//delete the stash
 git stash pop		//restore the stash then delete
 git stash list		//query the stash 
 git stash apply stash@{index} 	//restore the stash asseigned.
+git branch -D branchname 	//force to delete the branch
+git remote		//query the remote info
+git remote -v		//query the remote info for details
+20181116 FOR pgge 52
