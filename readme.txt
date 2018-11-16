@@ -29,4 +29,5 @@ git branch		//query current branch and view all branchs
 git merge dev	//merge dev to current branch
 git branch -d branchname	//delete the assigned name branch
 git log --graph			//query the merge branch graph
-
+git merge --no-ff -m "merge with no-ff" branchName	//merge branch with no fast forward mode。
+git reflog --graph --pretty=oneline --abbrev-commit 	//query the merge graph
