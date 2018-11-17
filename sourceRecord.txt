@@ -1,0 +1,4 @@
+http://www.opencv.org.cn/ 也是学习OpenCV的好地方。
+http://wiki.opencv.org.cn/index.php OpenCV的各种中文资料。
+http://opencv.org/documentation.html 官方的在线帮助文档。
+http://www.sigvc.org/bbs/ 视觉计算论坛。
