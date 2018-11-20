@@ -43,3 +43,7 @@ git branch -D branchname 	//force to delete the branch
 git remote		//query the remote info
 git remote -v		//query the remote info for details
 20181116 FOR pgge 52
+git pull		//update from remote
+git push origin dev	//
+git branch --set-upstream dev origin/dev	//指定本地分支与远程分支的链接
+git pull Auto-merging filename
